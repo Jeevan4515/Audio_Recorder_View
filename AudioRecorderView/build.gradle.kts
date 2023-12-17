@@ -51,7 +51,7 @@ afterEvaluate {
                 from(components["release"])
                 groupId = "com.github.Jeevan4515"
                 artifactId = "Audio_Recorder_View"
-                version = "1.0"
+                version = "1.0.0"
             }
         }
     }
